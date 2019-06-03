@@ -46,4 +46,4 @@ The non-full-stack frameworks do not provide additional functionalities and feat
 * Support for user authentication by default.
 * Provides high-quality output.
 * Non-blocking HTTP client.
-* Allows you to implement third-party authentication and authorization schemes, such as Google OpenID/OAuth, Facebook login, Yahoo BBAuth, and Twitter OAuth.
+* Allows you to implement third-party authentication and authorization schemes, such as Google OpenID/OAuth, Facebook login, Yahoo BBAuth, and Twitter OAuth. 
