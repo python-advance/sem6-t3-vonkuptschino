@@ -19,4 +19,5 @@ CacheInfo(hits=1, misses=1, maxsize=10, currsize=1)
     "Евро": "72,8436",
     "Фунт стерлингов Соединенного королевства": "82,5531"
 }
+CacheInfo(hits=1, misses=1, maxsize=10, currsize=1)
 ```
